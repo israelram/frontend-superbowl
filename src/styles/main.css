@@ -1,0 +1,116 @@
+/* Estilos para el header */
+header {
+    background-color: #3f51b5;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Estilos para el jumbotron */
+  .jumbotron {
+    background-color: #f5f5f5;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  /* Estilos para las secciones de estadísticas y trivia */
+  section {
+    padding: 2rem;
+  }
+  
+  /* Estilos para los botones de navegación */
+  .btn {
+    background-color: #3f51b5;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    text-decoration: none;
+    margin-right: 1rem;
+  }
+  
+  /* Estilos para la tabla de estadísticas */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 0.5rem;
+  }
+  
+  th {
+    background-color: #3f51b5;
+    color: white;
+  }
+  
+  /* Estilos para los formularios */
+  form {
+    padding: 1rem;
+    background-color: #f5f5f5;
+    border-radius: 0.25rem;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+  }
+  
+  input[type="submit"] {
+    background-color: #3f51b5;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+  }
+  
+/* Estilos para los mensajes de error */
+.error {
+    color: red;
+    margin-top: 1rem;
+  }
+  
+  /* Estilos para los mensajes de éxito */
+  .success {
+    color: green;
+    margin-top: 1rem;
+  }
+  
+  /* Estilos para el footer */
+  footer {
+    background-color: #3f51b5;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  /* Estilos para las secciones de términos y condiciones */
+  .terms {
+    background-color: #f5f5f5;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  /* Estilos para los enlaces */
+  a {
+    color: #3f51b5;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+    
